@@ -1,6 +1,8 @@
 IGYM is a popular gym in Balangoda has several issues with utilizing conventional methods which reduce effectiveness and member rapport. They are currently using a very complex system to manage memberships, payments, and attendance and often encounter problems arising from confusion and misunderstandings. Moreover, with the use of manual approaches, having individual workout programs, diet plans, and equipment guidelines is difficult to accomplish.
 These problems can be solved through the use of a web-based management system. Through adopting record-keeping and communication systems, more time for the staff members will be saved, and the memberfs experience will be enhanced. Things such as equipment usage information, exercise schedules, and diet advice will enable members to perform better. The system can also be concerning the rules and regulations of the gym and make sure every individual is aware of them.
 This solution defines what can be done not just to address problems today but also in the future. Performing certain activities with the help of computer programs and systems frees up time for staff to serve members and upgrade the gym. Individualized promos with customers will increase member satisfaction and loyalty. The reasoned prediction will be based on the data obtained, and it can be further developed to include more services in a larger gym environment. According to the crowds, incorporating a modern management system in IGYM will enhance its future performance.
+
+
 2.2 Objectives
 .
 Financial Management:
@@ -10,7 +12,7 @@ Create a way through which the gym owner can record details of income an expendi
 Automated Notifications:
 .
 Implement a notification system that automatically sends reminders to customers before their payment due dates.
-7
+
 .
 Nutritional Information:
 .
